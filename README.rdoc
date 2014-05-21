@@ -1,4 +1,4 @@
-#One Moth Rails
+#One Month Rails
 
 This is a test for pinterest
 
